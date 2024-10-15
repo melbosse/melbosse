@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 My portfolio website is [here](https://melbosse.github.io/)
-
 <div width=100% align=center>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melbosse&hide_border=true&show_icons=true&locale=en&theme=radical&layout=compact" alt="melbosse" /></p>
 </div>
